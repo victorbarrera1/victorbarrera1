@@ -1,10 +1,10 @@
 # 🧑🏻‍💻 About Me
-<br>Civil Engineering in Informatics and Telecommunications student passionate about software development, web technologies, and automation. I enjoy creating useful tools and building dynamic solutions in both the backend and frontend.<br><br>
+<br>Computer and Telecommunications Engineering student passionate about software development, web technologies, and automation. I enjoy building useful tools and dynamic solutions for both the frontend and backend.<br><br>
 
-* 🔭 **Currently working on:** `contestAI` (a WhatsApp bot for SMEs) and the development of [chatudp.vercel.app](https://chatudp.vercel.app) (a university chat application) and various websites.<br>
+* 🔭 **Currently working on:** `contestAI` (a WhatsApp bot for small businesses) and developing [chatudp.vercel.app](https://chatudp.vercel.app) (a university chat application), alongside various websites.<br>
 * 🌱 **My main stack:** Java, C++, Python, TypeScript, and React.<br>
-* 🔐 **Interests:** Cybersecurity, networking, algorithm analysis, programming, and web and mobile development.<br>
-* 💻 **Extra experience:** Technical support, hardware maintenance, and software optimization.<br>
+* 🔐 **Interests:** Cybersecurity, networking, algorithm analysis, programming, and web/mobile development.<br>
+* 💻 **Extra experience:** IT support, hardware maintenance, and software optimization.<br>
 * 📫 **How to reach me:** [victor.barrera@mail.udp.cl](mailto:victor.barrera@mail.udp.cl)
 
 
