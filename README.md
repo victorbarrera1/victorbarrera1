@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 About Me
 <br>Computer and Telecommunications Engineering student passionate about software development, web technologies, and automation. I enjoy building useful tools and dynamic solutions for both the frontend and backend.<br><br>
 
-* 🔭 **Currently working on:** `contestAI` (a WhatsApp bot for small businesses) and developing [chatudp.vercel.app](https://chatudp.vercel.app) (a university chat application), alongside various websites.<br>
+* 🔭 **Currently working on:** `chatudp` (a chatbot with AI for Diego Portales University) deployed at [chatudp.vercel.app](https://chatudp.vercel.app), alongside various websites.<br>
 * 🌱 **My main stack:** Java, C++, Python, TypeScript, and React.<br>
 * 🔐 **Interests:** Cybersecurity, networking, algorithm analysis, programming, and web/mobile development.<br>
 * 💻 **Extra experience:** IT support, hardware maintenance, and software optimization.<br>
