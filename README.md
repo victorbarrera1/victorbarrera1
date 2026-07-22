@@ -3,7 +3,7 @@
 
 * 🔭 **Currently working on:** `chatudp` (a chatbot with AI for Diego Portales University) deployed at [chatudp.vercel.app](https://chatudp.vercel.app), alongside various websites.<br>
 * 🌱 **My main stack:** Java, C++, Python, TypeScript, and React.<br>
-* 🔐 **Interests:** Cybersecurity, networking, algorithm analysis, programming, and web/mobile development.<br>
+* 🔐 **Interests:** AI, networking, algorithm analysis, programming, and web/mobile development.<br>
 * 💻 **Extra experience:** IT support, hardware maintenance, and software optimization.<br>
 * 📫 **How to reach me:** [victor.barrera@mail.udp.cl](mailto:victor.barrera@mail.udp.cl)
 
