@@ -6,7 +6,7 @@
 * 🔐 **Interests:** Artificial intelligence, software development, web and mobile development, process optimization, and automations.<br>
 * 💻 **Extra experience:** IT support, hardware maintenance, and software optimization.<br>
 * 📫 **How to reach me:** [victor.barrera@mail.udp.cl](mailto:victor.barrera@mail.udp.cl)
-* 📫 **My website:** [dokihardware.cl](https://dokihardware.cl)
+* 💻 **My website:** [dokihardware.cl](https://dokihardware.cl)
 
 
 ## 🌐 Socials:
