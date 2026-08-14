@@ -2,7 +2,7 @@
 <br>Computer Science and Telecommunications Engineering student passionate about software development, web technologies, and automation. I enjoy building useful tools and dynamic solutions for both the frontend and backend.<br><br>
 
 * 🔭 **Currently working on:** `chatudp` (a chatbot with AI for Diego Portales University) deployed at [chatudp.vercel.app](https://chatudp.vercel.app), alongside various websites.<br>
-* 🌱 **My main stack:** Java, C++, Python, TypeScript, and React.<br>
+* 🌱 **My main stack:** Java, C++, Python, TypeScript and Astro.<br>
 * 🔐 **Interests:** Artificial intelligence, software development, web and mobile development, process optimization, and automations.<br>
 * 💻 **Extra experience:** IT support, hardware maintenance, and software optimization.<br>
 * 📫 **How to reach me:** [victor.barrera@mail.udp.cl](mailto:victor.barrera@mail.udp.cl)
